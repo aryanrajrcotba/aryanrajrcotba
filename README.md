@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi! I’m a CSE student with a focus on Data Science and a passion for building applications that solve real-world problems. Currently Learning AI for better use.
 🔭 I’m currently working on: A shopping app using Python, Flask, React.js, and MySQL, along with projects like an airline booking system, a personal finance manager website, and a voting system.<br><br>👯 I’m looking to collaborate on: Web and app development, hackathons, and innovative tech projects.<br><br>🤝 I’m looking for help with: Optimizing my projects, implementing advanced features, and exploring new technologies for better scalability and performance.<br><br>🌱 I’m currently learning: Android development (Kotlin, Java), Django, advanced SQL, and AI-based applications.<br><br>💬 Ask me about: Software development, Java Swing, SQL, web technologies, and full-stack development.<br><br>⚡ Fun fact: I manage multiple projects while being a student, constantly learning and building new things! 🚀
 
 
