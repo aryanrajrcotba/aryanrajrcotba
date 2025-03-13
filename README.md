@@ -1,3 +1,4 @@
+![logo](https://github.com/aryanrajrcotba/aryanrajrcotba/blob/main/Arbannergit.png)
 # 💫 Hi! This is Aryan Raj 
 
 I’m a CSE student with a focus on Data Science and a passion for building applications that solve real-world problems. Currently Learning AI for better use.
