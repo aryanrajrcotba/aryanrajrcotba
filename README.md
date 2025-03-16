@@ -19,7 +19,7 @@ I’m a CSE student with a focus on Data Science and a passion for building appl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryanrajrcotba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
